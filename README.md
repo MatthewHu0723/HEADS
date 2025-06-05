@@ -1,7 +1,7 @@
 # HEADS
 
 The repository of CIKM 2025 Article "Smoothing Sparsity Drift in Irregular Multivariate Time Series Forecasting Needs Temporal Observation Density"
-We implement HEADS on the environment of Pytorch=3.9 and 
+We implement HEADS on the environment of Pytorch=3.9 and CUDA=12.1
 
 ## Catlog
 ```
