@@ -6,7 +6,7 @@ We implement HEADS on the environment of Pytorch=3.9 and
 ## Catlog
 ```
 .
-└─I2TSlib
+└─HEADS
   ├─HEADS
     ├─datasets                          Storing dataset files
     ├─models                            Storing HEADS model and baselines
