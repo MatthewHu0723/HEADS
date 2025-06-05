@@ -20,13 +20,13 @@ We implement HEADS on the environment of Pytorch=3.9 and CUDA=12.1.
 
 ## How to Run
 
-### 1. prepare environment
+### 1. Prepare environment
 
 ```
 pip install -r requirements.txt
 ```
 
-### 2. download datasets
+### 2. Download datasets
 
 For dataset *PhysioNet2012*, *Human Activity* and *USHCN*, there is no need for extra download.
 
