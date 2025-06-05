@@ -8,12 +8,11 @@ We implement HEADS on the environment of Pytorch=3.9 and CUDA=12.1.
 .
 └─HEADS
   ├─HEADS
-    ├─datasets                          Storing dataset files
     ├─models                            Storing HEADS model and baselines
     ├─scripts                           Shell scripts
-    ├─data_preprocessing                数据集预处理脚本文件
-    ├─run_model                         模型运行脚本文件
-  ├─datasets                            Storing raw/preprocessed dataset files 
+    ├─run.py                            Core training file
+    ├─run_density_prep.py               Core preprocessing file
+  ├─data                                Storing raw/preprocessed dataset files 
   ├─lib                                 Dataset-related functions and utils
   ├─README.md
   ├─requirements.txt                    Required Environment packages 
