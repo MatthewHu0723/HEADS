@@ -1,6 +1,6 @@
 # HEADS
 
-The repository of DASFAA 2026 Article "Smoothing Sparsity Drift in Irregular Multivariate Time Series Forecasting Needs Temporal Observation Density"
+The repository of DASFAA 2026 Article "HEADS: Temporal Observation Density Boosts Irregular Multivariate Time Series Forecasting"
 We implement HEADS on the environment of Pytorch=3.9 and CUDA=12.1.
 
 ## Catalog
